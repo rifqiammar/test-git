@@ -36,3 +36,6 @@ branching
  - Fitur Experimental
  - 2 orang mengerjakan repo yang sama		|            .--.
 								|      .-.-./----\.   Merge menggabungkan Commit dari branch ke master branch nya
+								
+								
+								file pgp
