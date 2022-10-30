@@ -1,0 +1,13 @@
+========================================================================
+				Branch / Cabang
+				 	  	
+				        .
+				  .-.-./      | sudah 3x Commit dan 1 cabang
+
+branching
+ - Membuat git Branch
+ - Membuat snapshot tanpa menggangu jalur utama (Master branch)
+ - Fitur Experimental
+ - 2 orang mengerjakan repo yang sama		|            .--.
+								|      .-.-./----\.   Merge menggabungkan Commit dari branch ke master branch nya
+								|
